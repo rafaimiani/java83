@@ -23,7 +23,7 @@ public class ContagemIdade2 {
             idade = leia.nextInt();
         }
 
-        // Exibe resultados
+        // Exibindo resultados
         System.out.println("\nTotal de pessoas menores de 21 anos: " + menores21);
         System.out.println("Total de pessoas maiores de 50 anos: " + maiores50);
 
